@@ -1,0 +1,1 @@
+This practice for FIB-ROBOTICA contains an HTTP viewer to see the detections of the Robot's sensors, and a program (Core.py) where the basic movement and the ability to avoid objects are established.
